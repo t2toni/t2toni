@@ -118,4 +118,4 @@ Autonomous Computer Vision & Decision-Planning Game Agent using OpenCV, YOLO arc
 
 ## Contact
 
-[Portfolio](https://tony.t2toni.workers.dev/) · [GitHub](https://github.com/t2toni)
+[Portfolio](https://tony.t2toni.workers.dev/) · [GitHub](https://github.com/t2toni) · [LinkedIn](https://www.linkedin.com/in/antony-aswin-denis-85263536a/)
